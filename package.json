@@ -1,0 +1,15 @@
+{
+  "name": "correyvuela",
+  "version": "1.0.0",
+  "description": "test",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test/*.js"
+  },
+  "keywords": [],
+  "author": "Emilio <emilioriosvz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.2.0"
+  }
+}
